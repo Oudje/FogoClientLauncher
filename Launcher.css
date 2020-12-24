@@ -1,0 +1,19 @@
+.blog-title::after {
+    content: "Test Blog"
+}
+
+.blog-poster::after {
+    content: "Posted by PotDuel"
+}
+
+.blog-posterhead::after {
+    background-image: url('https://minotar.net/helm/48b4f4ef63f54b4fa6404b43ef17fdbc/32.png')
+}
+
+.blog-message::after {
+    content: "This is a test message.";
+}
+
+.launcher-version::after {
+    content: "Fogo Client • v0.1";
+}
